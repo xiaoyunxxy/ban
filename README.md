@@ -1,4 +1,4 @@
-# BAN: Detecting Backdoors Activated by Neuron Noise
+# BAN: Detecting Backdoors Activated by Adversarial Neuron Noise
 
 ## Environment settings
 check requirements.txt
